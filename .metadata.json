@@ -1,0 +1,18 @@
+[
+  {
+    "package": "dipsaus",
+    "oncran": true
+  },
+  {
+    "package": "lazyarray",
+    "oncran": true
+  },
+  {
+    "package": "spfda",
+    "oncran": true
+  },
+  {
+    "package": "threeBrain",
+    "oncran": true
+  }
+]

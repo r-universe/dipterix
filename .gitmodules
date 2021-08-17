@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dipsaus"]
+	path = dipsaus
+	url = https://github.com/dipterix/dipsaus
+	shallow = true
+	registered = true
+[submodule "lazyarray"]
+	path = lazyarray
+	url = https://github.com/dipterix/lazyarray
+	shallow = true
+	registered = true
+[submodule "spfda"]
+	path = spfda
+	url = https://github.com/dipterix/spfda
+	shallow = true
+	registered = true
+[submodule "threeBrain"]
+	path = threeBrain
+	url = https://github.com/dipterix/threebrain
+	shallow = true
+	registered = true
