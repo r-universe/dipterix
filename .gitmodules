@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/dipterix/universe
 	shallow = true
 	branch = HEAD
 [submodule "dipsaus"]
@@ -8,9 +8,9 @@
 	url = https://github.com/dipterix/dipsaus
 	shallow = true
 	registered = true
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/dipterix/lazyarray
+[submodule "rutabaga"]
+	path = rutabaga
+	url = https://github.com/dipterix/rutabaga
 	shallow = true
 	registered = true
 [submodule "spfda"]
@@ -20,6 +20,21 @@
 	registered = true
 [submodule "threeBrain"]
 	path = threeBrain
-	url = https://github.com/dipterix/threebrain
+	url = https://github.com/dipterix/threeBrain
+	shallow = true
+	registered = true
+[submodule "lazyarray"]
+	path = lazyarray
+	url = https://github.com/dipterix/lazyarray
+	shallow = true
+	registered = true
+[submodule "restbatch"]
+	path = restbatch
+	url = https://github.com/dipterix/restbatch
+	shallow = true
+	registered = true
+[submodule "filearray"]
+	path = filearray
+	url = https://github.com/dipterix/filearray
 	shallow = true
 	registered = true

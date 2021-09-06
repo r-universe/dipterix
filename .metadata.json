@@ -4,8 +4,7 @@
     "oncran": true
   },
   {
-    "package": "lazyarray",
-    "oncran": true
+    "package": "rutabaga"
   },
   {
     "package": "spfda",
@@ -14,5 +13,15 @@
   {
     "package": "threeBrain",
     "oncran": true
+  },
+  {
+    "package": "lazyarray",
+    "oncran": true
+  },
+  {
+    "package": "restbatch"
+  },
+  {
+    "package": "filearray"
   }
 ]
