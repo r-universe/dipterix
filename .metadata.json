@@ -23,6 +23,6 @@
   },
   {
     "package": "filearray",
-    "oncran": false
+    "oncran": true
   }
 ]
