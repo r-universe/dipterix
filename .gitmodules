@@ -38,3 +38,13 @@
 	url = https://github.com/dipterix/filearray
 	shallow = true
 	registered = true
+[submodule "raveio"]
+	path = raveio
+	url = https://github.com/beauchamplab/raveio
+	shallow = true
+	registered = true
+[submodule "ravetools"]
+	path = ravetools
+	url = https://github.com/dipterix/ravetools
+	shallow = true
+	registered = true

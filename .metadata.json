@@ -24,5 +24,12 @@
   {
     "package": "filearray",
     "oncran": true
+  },
+  {
+    "package": "raveio",
+    "oncran": true
+  },
+  {
+    "package": "ravetools"
   }
 ]
