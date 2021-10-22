@@ -1,0 +1,20 @@
+[
+  {
+    "package": "dipsaus",
+    "url": "https://github.com/dipterix/dipsaus",
+    "via": ["rave"],
+    "from": "rave"
+  },
+  {
+    "package": "raveio",
+    "url": "https://github.com/beauchamplab/raveio",
+    "via": ["rave"],
+    "from": "rave"
+  },
+  {
+    "package": "threeBrain",
+    "url": "https://github.com/dipterix/threeBrain",
+    "via": ["rave"],
+    "from": "rave"
+  }
+]
