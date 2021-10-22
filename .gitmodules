@@ -48,3 +48,8 @@
 	url = https://github.com/dipterix/ravetools
 	shallow = true
 	registered = true
+[submodule "rave"]
+	path = rave
+	url = https://github.com/beauchamplab/rave
+	shallow = true
+	registered = true
