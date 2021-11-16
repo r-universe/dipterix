@@ -38,6 +38,16 @@
 	url = https://github.com/dipterix/filearray
 	shallow = true
 	registered = true
+[submodule "rpymat"]
+	path = rpymat
+	url = https://github.com/dipterix/rpymat
+	shallow = true
+	registered = true
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
+	shallow = true
+	registered = true
 [submodule "raveio"]
 	path = raveio
 	url = https://github.com/beauchamplab/raveio

@@ -26,6 +26,13 @@
     "oncran": true
   },
   {
+    "package": "rpymat",
+    "oncran": true
+  },
+  {
+    "package": "shidashi"
+  },
+  {
     "package": "raveio",
     "oncran": true
   },
