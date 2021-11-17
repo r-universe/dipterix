@@ -30,7 +30,8 @@
     "oncran": true
   },
   {
-    "package": "shidashi"
+    "package": "shidashi",
+    "oncran": false
   },
   {
     "package": "raveio",
