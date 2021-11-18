@@ -43,11 +43,6 @@
 	url = https://github.com/dipterix/rpymat
 	shallow = true
 	registered = true
-[submodule "shidashi"]
-	path = shidashi
-	url = https://github.com/dipterix/shidashi
-	shallow = true
-	registered = true
 [submodule "raveio"]
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
@@ -61,5 +56,10 @@
 [submodule "rave"]
 	path = rave
 	url = https://github.com/beauchamplab/rave
+	shallow = true
+	registered = true
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
 	shallow = true
 	registered = true
