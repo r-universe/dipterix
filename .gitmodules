@@ -63,3 +63,13 @@
 	url = https://github.com/dipterix/shidashi
 	shallow = true
 	registered = true
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/RcppCore/Rcpp
+	shallow = true
+	registered = false
+[submodule "digest"]
+	path = digest
+	url = https://github.com/eddelbuettel/digest
+	shallow = true
+	registered = false
