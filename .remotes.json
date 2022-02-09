@@ -1,17 +1,5 @@
 [
   {
-    "package": "Rcpp",
-    "url": "https://github.com/RcppCore/Rcpp",
-    "via": ["ravetools"],
-    "from": "ravetools"
-  },
-  {
-    "package": "digest",
-    "url": "https://github.com/eddelbuettel/digest",
-    "via": ["ravetools"],
-    "from": "ravetools"
-  },
-  {
     "package": "dipsaus",
     "url": "https://github.com/dipterix/dipsaus",
     "via": ["rave"],
@@ -28,12 +16,6 @@
     "url": "https://github.com/dipterix/filearray",
     "via": ["raveio"],
     "from": "raveio"
-  },
-  {
-    "package": "filearray",
-    "url": "https://github.com/dipterix/filearray",
-    "via": ["ravetools"],
-    "from": "ravetools"
   },
   {
     "package": "raveio",
