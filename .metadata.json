@@ -34,7 +34,8 @@
     "oncran": true
   },
   {
-    "package": "ravetools"
+    "package": "ravetools",
+    "oncran": false
   },
   {
     "package": "rave"
