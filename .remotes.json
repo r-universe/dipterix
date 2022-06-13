@@ -6,33 +6,9 @@
     "from": "rave"
   },
   {
-    "package": "dipsaus",
-    "url": "https://github.com/dipterix/dipsaus",
-    "via": ["rave", "raveio"],
-    "from": "rave"
-  },
-  {
-    "package": "filearray",
-    "url": "https://github.com/dipterix/filearray",
-    "via": ["rave", "raveio"],
-    "from": "rave"
-  },
-  {
     "package": "raveio",
     "url": "https://github.com/beauchamplab/raveio",
     "via": ["rave"],
-    "from": "rave"
-  },
-  {
-    "package": "shidashi",
-    "url": "https://github.com/dipterix/shidashi",
-    "via": ["rave", "raveio"],
-    "from": "rave"
-  },
-  {
-    "package": "threeBrain",
-    "url": "https://github.com/dipterix/threeBrain",
-    "via": ["rave", "raveio"],
     "from": "rave"
   },
   {
