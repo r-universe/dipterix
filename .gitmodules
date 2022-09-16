@@ -63,3 +63,8 @@
 	url = https://github.com/dipterix/shidashi
 	shallow = true
 	registered = true
+[submodule "ravemanager"]
+	path = ravemanager
+	url = https://github.com/dipterix/ravemanager
+	shallow = true
+	registered = true
