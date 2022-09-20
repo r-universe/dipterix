@@ -23,7 +23,7 @@
   },
   {
     "package": "filearray",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rpymat",
