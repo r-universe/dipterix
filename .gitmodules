@@ -47,6 +47,7 @@
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
 	shallow = true
+	branch = nightly-dev
 	registered = true
 [submodule "ravetools"]
 	path = ravetools
