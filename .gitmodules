@@ -22,6 +22,7 @@
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
 	shallow = true
+	branch = nightly-dev
 	registered = true
 [submodule "lazyarray"]
 	path = lazyarray
