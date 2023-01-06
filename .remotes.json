@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ITKR",
+    "url": "https://github.com/stnava/ITKR",
+    "via": ["ANTsRCore"],
+    "from": "ANTsRCore"
+  }
+]
