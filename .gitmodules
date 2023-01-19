@@ -24,11 +24,6 @@
 	shallow = true
 	branch = nightly-dev
 	registered = true
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/dipterix/lazyarray
-	shallow = true
-	registered = true
 [submodule "restbatch"]
 	path = restbatch
 	url = https://github.com/dipterix/restbatch
@@ -68,5 +63,10 @@
 [submodule "ravemanager"]
 	path = ravemanager
 	url = https://github.com/dipterix/ravemanager
+	shallow = true
+	registered = true
+[submodule "lazyarray"]
+	path = lazyarray
+	url = https://github.com/dipterix/lazyarray
 	shallow = true
 	registered = true

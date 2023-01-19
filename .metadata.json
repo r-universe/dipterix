@@ -15,10 +15,6 @@
     "oncran": true
   },
   {
-    "package": "lazyarray",
-    "oncran": true
-  },
-  {
     "package": "restbatch"
   },
   {
@@ -46,5 +42,9 @@
   },
   {
     "package": "ravemanager"
+  },
+  {
+    "package": "lazyarray",
+    "oncran": true
   }
 ]
