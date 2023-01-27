@@ -1,5 +1,8 @@
 [
   {
+    "package": "readNSx"
+  },
+  {
     "package": "dipsaus",
     "oncran": true
   },

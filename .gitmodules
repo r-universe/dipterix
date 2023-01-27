@@ -3,6 +3,11 @@
 	url = https://github.com/dipterix/universe
 	shallow = true
 	branch = HEAD
+[submodule "readNSx"]
+	path = readNSx
+	url = https://github.com/dipterix/readNSx
+	shallow = true
+	registered = true
 [submodule "dipsaus"]
 	path = dipsaus
 	url = https://github.com/dipterix/dipsaus
