@@ -75,3 +75,8 @@
 	url = https://github.com/dipterix/lazyarray
 	shallow = true
 	registered = true
+[submodule "Rvcg"]
+	path = Rvcg
+	url = https://github.com/cran/Rvcg
+	shallow = true
+	registered = true
