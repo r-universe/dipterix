@@ -27,7 +27,6 @@
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
 	shallow = true
-	branch = nightly-dev
 	registered = true
 [submodule "restbatch"]
 	path = restbatch
@@ -38,6 +37,7 @@
 	path = filearray
 	url = https://github.com/dipterix/filearray
 	shallow = true
+	branch = tinythread
 	registered = true
 [submodule "rpymat"]
 	path = rpymat
