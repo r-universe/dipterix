@@ -50,5 +50,8 @@
   {
     "package": "lazyarray",
     "oncran": true
+  },
+  {
+    "package": "ITKR"
   }
 ]
