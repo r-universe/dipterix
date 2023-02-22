@@ -75,6 +75,11 @@
 	url = https://github.com/dipterix/lazyarray
 	shallow = true
 	registered = true
+[submodule "ITKR2"]
+	path = ITKR2
+	url = https://github.com/dipterix/ITKR2
+	shallow = true
+	registered = true
 [submodule "ITKR"]
 	path = ITKR
 	url = https://github.com/stnava/ITKR
