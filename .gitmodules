@@ -80,3 +80,8 @@
 	url = https://github.com/stnava/ITKR
 	shallow = true
 	registered = true
+[submodule "ANTsRCore"]
+	path = ANTsRCore
+	url = https://github.com/ANTsX/ANTsRCore
+	shallow = true
+	registered = true
