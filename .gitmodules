@@ -65,6 +65,11 @@
 	url = https://github.com/dipterix/shidashi
 	shallow = true
 	registered = true
+[submodule "rpyANTs"]
+	path = rpyANTs
+	url = https://github.com/dipterix/rpyANTs
+	shallow = true
+	registered = true
 [submodule "ravemanager"]
 	path = ravemanager
 	url = https://github.com/dipterix/ravemanager
