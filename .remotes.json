@@ -1,5 +1,23 @@
 [
   {
+    "package": "ANTsRCore",
+    "url": "https://github.com/ANTsX/ANTsRCore",
+    "via": ["ANTsR"],
+    "from": "ANTsR"
+  },
+  {
+    "package": "ITKR",
+    "url": "https://github.com/stnava/ITKR",
+    "via": ["ANTsR"],
+    "from": "ANTsR"
+  },
+  {
+    "package": "ITKR",
+    "url": "https://github.com/stnava/ITKR",
+    "via": ["ANTsR", "ANTsRCore"],
+    "from": "ANTsR"
+  },
+  {
     "package": "ITKR",
     "url": "https://github.com/stnava/ITKR",
     "via": ["ANTsRCore"],
