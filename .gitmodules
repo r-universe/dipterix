@@ -90,3 +90,8 @@
 	url = https://github.com/ANTsX/ANTsRCore
 	shallow = true
 	registered = true
+[submodule "ANTsR"]
+	path = ANTsR
+	url = https://github.com/ANTsX/ANTsR
+	shallow = true
+	registered = true
