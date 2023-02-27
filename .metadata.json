@@ -53,14 +53,5 @@
   {
     "package": "lazyarray",
     "oncran": true
-  },
-  {
-    "package": "ITKR"
-  },
-  {
-    "package": "ANTsRCore"
-  },
-  {
-    "package": "ANTsR"
   }
 ]
