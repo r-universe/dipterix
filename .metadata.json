@@ -45,7 +45,8 @@
     "oncran": true
   },
   {
-    "package": "rpyANTs"
+    "package": "rpyANTs",
+    "oncran": true
   },
   {
     "package": "ravemanager"
