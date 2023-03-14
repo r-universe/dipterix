@@ -1,8 +1,20 @@
 [
   {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave",
+    "via": ["ravebuiltins"],
+    "from": "ravebuiltins"
+  },
+  {
     "package": "rpymat",
     "url": "https://github.com/dipterix/rpymat",
     "via": ["rnwb"],
     "from": "rnwb"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga",
+    "via": ["ravebuiltins"],
+    "from": "ravebuiltins"
   }
 ]
