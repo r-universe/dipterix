@@ -48,7 +48,6 @@
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
 	shallow = true
-	branch = nightly-dev
 	registered = true
 [submodule "ravetools"]
 	path = ravetools
@@ -64,6 +63,13 @@
 	path = shidashi
 	url = https://github.com/dipterix/shidashi
 	shallow = true
+	branch = nightly-dev
+	registered = true
+[submodule "ravedash"]
+	path = ravedash
+	url = https://github.com/dipterix/ravedash
+	shallow = true
+	branch = nightly-dev
 	registered = true
 [submodule "rpyANTs"]
 	path = rpyANTs
