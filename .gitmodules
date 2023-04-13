@@ -37,7 +37,7 @@
 	path = filearray
 	url = https://github.com/dipterix/filearray
 	shallow = true
-	branch = tinythread
+	branch = lazyeval
 	registered = true
 [submodule "rpymat"]
 	path = rpymat
