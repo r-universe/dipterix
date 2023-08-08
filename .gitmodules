@@ -2,54 +2,54 @@
 	path = .registry
 	url = https://github.com/dipterix/universe
 	branch = HEAD
-[submodule "readNSx"]
-	path = readNSx
-	url = https://github.com/dipterix/readNSx
 [submodule "dipsaus"]
 	path = dipsaus
 	url = https://github.com/dipterix/dipsaus
+[submodule "filearray"]
+	path = filearray
+	url = https://github.com/dipterix/filearray
+	branch = lazyeval
+[submodule "lazyarray"]
+	path = lazyarray
+	url = https://github.com/dipterix/lazyarray
+[submodule "rave"]
+	path = rave
+	url = https://github.com/beauchamplab/rave
+[submodule "ravedash"]
+	path = ravedash
+	url = https://github.com/dipterix/ravedash
+	branch = nightly-dev
+[submodule "raveio"]
+	path = raveio
+	url = https://github.com/beauchamplab/raveio
+[submodule "ravemanager"]
+	path = ravemanager
+	url = https://github.com/dipterix/ravemanager
+[submodule "ravetools"]
+	path = ravetools
+	url = https://github.com/dipterix/ravetools
+[submodule "readNSx"]
+	path = readNSx
+	url = https://github.com/dipterix/readNSx
+[submodule "restbatch"]
+	path = restbatch
+	url = https://github.com/dipterix/restbatch
+[submodule "rpyANTs"]
+	path = rpyANTs
+	url = https://github.com/dipterix/rpyANTs
+[submodule "rpymat"]
+	path = rpymat
+	url = https://github.com/dipterix/rpymat
 [submodule "rutabaga"]
 	path = rutabaga
 	url = https://github.com/dipterix/rutabaga
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
+	branch = nightly-dev
 [submodule "spfda"]
 	path = spfda
 	url = https://github.com/dipterix/spfda
 [submodule "threeBrain"]
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
-[submodule "restbatch"]
-	path = restbatch
-	url = https://github.com/dipterix/restbatch
-[submodule "filearray"]
-	path = filearray
-	url = https://github.com/dipterix/filearray
-	branch = lazyeval
-[submodule "rpymat"]
-	path = rpymat
-	url = https://github.com/dipterix/rpymat
-[submodule "raveio"]
-	path = raveio
-	url = https://github.com/beauchamplab/raveio
-[submodule "ravetools"]
-	path = ravetools
-	url = https://github.com/dipterix/ravetools
-[submodule "rave"]
-	path = rave
-	url = https://github.com/beauchamplab/rave
-[submodule "shidashi"]
-	path = shidashi
-	url = https://github.com/dipterix/shidashi
-	branch = nightly-dev
-[submodule "ravedash"]
-	path = ravedash
-	url = https://github.com/dipterix/ravedash
-	branch = nightly-dev
-[submodule "rpyANTs"]
-	path = rpyANTs
-	url = https://github.com/dipterix/rpyANTs
-[submodule "ravemanager"]
-	path = ravemanager
-	url = https://github.com/dipterix/ravemanager
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/dipterix/lazyarray
