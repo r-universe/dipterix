@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dipterix/universe
+	url = https://github.com/dipterix/dipterix.r-universe.dev
 	branch = HEAD
 [submodule "dipsaus"]
 	path = dipsaus
