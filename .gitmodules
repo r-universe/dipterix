@@ -8,17 +8,16 @@
 [submodule "filearray"]
 	path = filearray
 	url = https://github.com/dipterix/filearray
-	branch = lazyeval
-[submodule "lazyarray"]
-	path = lazyarray
-	url = https://github.com/dipterix/lazyarray
 [submodule "rave"]
 	path = rave
 	url = https://github.com/beauchamplab/rave
+[submodule "ravebuiltins"]
+	path = ravebuiltins
+	url = https://github.com/beauchamplab/ravebuiltins
+	branch = migrate2
 [submodule "ravedash"]
 	path = ravedash
 	url = https://github.com/dipterix/ravedash
-	branch = nightly-dev
 [submodule "raveio"]
 	path = raveio
 	url = https://github.com/beauchamplab/raveio
@@ -28,12 +27,13 @@
 [submodule "ravetools"]
 	path = ravetools
 	url = https://github.com/dipterix/ravetools
+	branch = vcg
 [submodule "readNSx"]
 	path = readNSx
 	url = https://github.com/dipterix/readNSx
-[submodule "restbatch"]
-	path = restbatch
-	url = https://github.com/dipterix/restbatch
+[submodule "rnwb"]
+	path = rnwb
+	url = https://github.com/dipterix/rnwb
 [submodule "rpyANTs"]
 	path = rpyANTs
 	url = https://github.com/dipterix/rpyANTs
@@ -46,7 +46,6 @@
 [submodule "shidashi"]
 	path = shidashi
 	url = https://github.com/dipterix/shidashi
-	branch = nightly-dev
 [submodule "spfda"]
 	path = spfda
 	url = https://github.com/dipterix/spfda
