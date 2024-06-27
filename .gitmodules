@@ -27,7 +27,6 @@
 [submodule "ravetools"]
 	path = ravetools
 	url = https://github.com/dipterix/ravetools
-	branch = vcg
 [submodule "readNSx"]
 	path = readNSx
 	url = https://github.com/dipterix/readNSx
