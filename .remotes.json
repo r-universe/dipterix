@@ -6,12 +6,6 @@
     "from": "ravebuiltins"
   },
   {
-    "package": "ravetools",
-    "url": "https://github.com/dipterix/ravetools",
-    "via": ["threeBrain"],
-    "from": "threeBrain"
-  },
-  {
     "package": "rpymat",
     "url": "https://github.com/dipterix/rpymat",
     "via": ["rnwb"],
