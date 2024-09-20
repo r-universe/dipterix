@@ -11,6 +11,9 @@
 [submodule "ieegio"]
 	path = ieegio
 	url = https://github.com/dipterix/ieegio
+[submodule "niivuer"]
+	path = niivuer
+	url = https://github.com/dipterix/niivuer
 [submodule "rave"]
 	path = rave
 	url = https://github.com/beauchamplab/rave
