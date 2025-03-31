@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/dipterix/dipterix.r-universe.dev
 	branch = HEAD
+[submodule "bidsr"]
+	path = bidsr
+	url = https://github.com/dipterix/bidsr
 [submodule "dipsaus"]
 	path = dipsaus
 	url = https://github.com/dipterix/dipsaus
@@ -30,6 +33,9 @@
 [submodule "ravemanager"]
 	path = ravemanager
 	url = https://github.com/dipterix/ravemanager
+[submodule "ravepipeline"]
+	path = ravepipeline
+	url = https://github.com/dipterix/ravepipeline
 [submodule "ravetools"]
 	path = ravetools
 	url = https://github.com/dipterix/ravetools
